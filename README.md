@@ -10,3 +10,7 @@ I will provide a write up shortly on how to hack this. In the meantime for help 
 
 
 <b>Compile:</b> gcc usemeimfree.cpp -o usemeimfree -lstdc++
+
+<b>Execution:</b> ./usemeimfree <port> - Ex: ./usemeimfree 12120
+  
+ <b>Once executed, remotely telnet into the machine running UseMeImFree on the port you chose.</b>
